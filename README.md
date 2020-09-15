@@ -1,5 +1,5 @@
 # ChatBot using JavaScript and Web API:
-<hr>
+
 In this project, I created a Chatbot using Javascript only. I used Web speech API for this. I can do two major things in this project:-
 * Convert speech to text using javascript.
 * Get voice response from a bot in reply to the input.
